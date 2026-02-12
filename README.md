@@ -44,3 +44,24 @@ This toolkit is intended for educational and audit simulation purposes.
 ---
 
 If you're building on AWS — audit before you scale.
+⚖️ License & Legal Information
+This project is primarily licensed under the MIT License, with specific modules covered under Apache 2.0 and GPL v3.
+
+License: MIT License: Apache 2.0 License: GPL v3 Python 3.8+
+
+Key Permissions:
+✅ Commercial Use: You can use this code for business purposes.
+✅ Modification: You can change the code however you like.
+✅ Distribution: You can share the code with others.
+✅ Private Use: You can use it privately.
+Conditions:
+⚠️ Notice: You must include the original copyright and license notice in any copy of the software/source code.
+Warranty:
+🛡️ No Warranty: The software is provided "as is", without any warranty of any kind. The author is not liable for any claims or damages.
+For more details, view the Full LICENSE File
+
+Libraries: hashlib, watchdog, requests, psutil, subprocess, smtplib
+
+OS: Linux (Ubuntu/Debian/Kali) & Windows (Admin/Root access required)
+
+👨‍💻 Author Anuj Sharma AWS cloud Security Automation Enthusiast | IT Automation Specialist | Python for SecOps
