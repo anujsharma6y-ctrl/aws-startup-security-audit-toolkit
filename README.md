@@ -60,8 +60,4 @@ Warranty:
 🛡️ No Warranty: The software is provided "as is", without any warranty of any kind. The author is not liable for any claims or damages.
 For more details, view the Full LICENSE File
 
-Libraries: hashlib, watchdog, requests, psutil, subprocess, smtplib
-
-OS: Linux (Ubuntu/Debian/Kali) & Windows (Admin/Root access required)
-
 👨‍💻 Author Anuj Sharma AWS cloud Security Automation Enthusiast | IT Automation Specialist | Python for SecOps
